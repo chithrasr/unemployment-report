@@ -10,5 +10,13 @@ python-dotenv
 
 
 
+flask # <--- ADD FOR WEB APP
+#gunicorn
+
+
+
+
+
+
 
 pytest
